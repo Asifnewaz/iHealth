@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "59FD7480-F897-44D2-B1A9-E7090A2861D3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54462B4D-F363-40BE-AAFB-597ECA3A77AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iHealth/Views/Goals/GoalsInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "updateGoalsWith(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BF2E286-C69A-43F4-BD71-915C01DA5AFE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iHealth/Views/Goals/GoalsInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "getGoalsList(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "806FB108-691C-4D84-BB3A-3A1F1D5A426E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iHealth/Views/Goals/GoalsInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getGoalsList(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AAAB3B7-69FB-4DCC-8FDE-C1AAD67A8DA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iHealth/Views/Goals/View Model/GoalViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getViewModelsWith(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4AAAB3B7-69FB-4DCC-8FDE-C1AAD67A8DA8 - 7fb55c9a90773690"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static iHealth.GoalViewModel.getViewModelsWith(Swift.Array&lt;iHealth.GoalResponse&gt;) -&gt; Swift.Array&lt;iHealth.GoalViewModel&gt;"
+                  moduleName = "iHealth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asifnewaz/Downloads/iHealth-master/iHealth/iHealth/Views/Goals/View%20Model/GoalViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "4AAAB3B7-69FB-4DCC-8FDE-C1AAD67A8DA8 - 2dbad8f0a9eb0395"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iHealth.GoalResponse) -&gt; iHealth.GoalViewModel in static iHealth.GoalViewModel.getViewModelsWith(Swift.Array&lt;iHealth.GoalResponse&gt;) -&gt; Swift.Array&lt;iHealth.GoalViewModel&gt;"
+                  moduleName = "iHealth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/asifnewaz/Downloads/iHealth-master/iHealth/iHealth/Views/Goals/View%20Model/GoalViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

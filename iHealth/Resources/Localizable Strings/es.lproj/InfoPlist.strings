@@ -1,0 +1,10 @@
+/* 
+  InfoPList.strings
+  iHealth
+
+  Created by Ricardo Casanova on 16/01/2019.
+  Copyright © 2019 Pijp. All rights reserved.
+*/
+
+"NSHealthShareUsageDescription" = "iHealth necesita tu permiso para tener acceso a tus datos de salud";
+"NSHealthUpdateUsageDescription" = "iHealth necesita tu permiso para actualizar tus datos de salud";

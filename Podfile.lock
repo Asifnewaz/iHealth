@@ -1,0 +1,30 @@
+PODS:
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
+  - SVProgressHUD (2.2.5)
+  - XYPieChart (0.2)
+
+DEPENDENCIES:
+  - RealmSwift (~> 3.20.0)
+  - SVProgressHUD (~> 2.2.5)
+  - XYPieChart (~> 0.2)
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SVProgressHUD
+    - XYPieChart
+
+SPEC CHECKSUMS:
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XYPieChart: 0efd8069d26c25d20ab74c01b5ad455f1fc48153
+
+PODFILE CHECKSUM: 77129497be74e8a8b009885eff6d748b0fd01530
+
+COCOAPODS: 1.8.4
